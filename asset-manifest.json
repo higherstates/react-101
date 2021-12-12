@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-101/static/css/main.173c02bf.chunk.css",
+    "main.js": "/react-101/static/js/main.ab0a7a17.chunk.js",
+    "main.js.map": "/react-101/static/js/main.ab0a7a17.chunk.js.map",
+    "runtime-main.js": "/react-101/static/js/runtime-main.4fbac722.js",
+    "runtime-main.js.map": "/react-101/static/js/runtime-main.4fbac722.js.map",
+    "static/js/2.42db6a78.chunk.js": "/react-101/static/js/2.42db6a78.chunk.js",
+    "static/js/2.42db6a78.chunk.js.map": "/react-101/static/js/2.42db6a78.chunk.js.map",
+    "index.html": "/react-101/index.html",
+    "static/css/main.173c02bf.chunk.css.map": "/react-101/static/css/main.173c02bf.chunk.css.map",
+    "static/js/2.42db6a78.chunk.js.LICENSE.txt": "/react-101/static/js/2.42db6a78.chunk.js.LICENSE.txt",
+    "static/media/banner.6171b1f5.png": "/react-101/static/media/banner.6171b1f5.png",
+    "static/media/App.css": "/react-101/static/media/bg.874ac2cd.jpeg",
+    "static/media/oh-heroes.c61a4b77.svg": "/react-101/static/media/oh-heroes.c61a4b77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fbac722.js",
+    "static/js/2.42db6a78.chunk.js",
+    "static/css/main.173c02bf.chunk.css",
+    "static/js/main.ab0a7a17.chunk.js"
+  ]
+}
